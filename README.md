@@ -38,3 +38,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+---
+## Please Contribute!!
+If you'd like to contribute any brief tutorials or tips you wish you'd have known when you started working with HCP pipeline output files or workbench commands, please write something up. We have provided a [template markdown file](https://github.com/iamdamion/HCP-snippets/blob/main/md_files/template.md) and any images should be linked from the /img folder in this repository. Submit a pull request and we'll get it added asap. We've all learned a lot from scattered resources, but I'm hoping this can evolve into something that can reduce that learnign curve pain for new grad students. 
+
+
