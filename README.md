@@ -1,4 +1,4 @@
-<p align="center"><img width=50% src="img/handbook.png"></p> 
+<p align="center"><img width=50% src="img/handbook.jpg"></p> 
 
 # Handbook for the Recently HCP'd
 Snippets of code, examples, and simple walkthroughs to help grad students/new users complete basic tasks with workbench command and common HCP pipeline output files. 
@@ -11,3 +11,11 @@ This repository is meant to be a living resource for people in my position. Thos
 
 ### Table of Contents:
 - [Arbitrary Values for Parcels](https://github.com/iamdamion/HCP-snippets/PATHTOMARKDOWNFILE.md)   
+
+
+
+### Main Contributors:
+- [Damion V. Demeter, MA](https://www.damiondemeter.com/)[<img src="https://github.blog/wp-content/uploads/2013/04/fffdd290-a5e2-11e2-8099-e1b5d8286da3.jpg">](https://github.com/iamdamion)
+- [Hao-Ting Wang, PhD](https://wanghaoting.com/)[<img src="https://github.blog/wp-content/uploads/2013/04/fffdd290-a5e2-11e2-8099-e1b5d8286da3.jpg">](https://github.com/htwangtw)
+
+
