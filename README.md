@@ -1,12 +1,13 @@
-<p align="center"><img width=50% src="img/handbook.png"></p> 
+<img align="left" width="200" src="img/handbook.png">
+
+# Handbook for the Recently HCP'd
+Snippets of code, examples, and simple walkthroughs to help grad students/new users complete basic tasks with workbench command and common HCP pipeline output files. 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
----
-# Handbook for the Recently HCP'd
-Snippets of code, examples, and simple walkthroughs to help grad students/new users complete basic tasks with workbench command and common HCP pipeline output files. 
+
 
 ## Background
 Working with HCP files has been an adventure. There are many resouces out there and the workbench commands are very powerful, however, completing many tasks I would simply and quickly do using fsl commands on volume files weren't as straight forward with surface/HCP files. I was constantly searching for brief and simple examples or step-by-step instructions for the tasks I was trying to complete...but was unable to find them. 
