@@ -16,7 +16,7 @@ This repository is meant to be a living resource for people in my position. Thos
 
 ---
 ## Table of Contents
-- [The Best Basic File Type Overview I've Found](https://mandymejia.com/2015/08/10/a-laymans-guide-to-working-with-cifti-files/)
+- [The Best Basic File Type Overview I've Found](https://mandymejia.com/2015/08/10/a-laymans-guide-to-working-with-cifti-files/) (External Link)
 - [Extract Timeseries to File](md_files/timeseries_to_file.md)  
 - [Write Arbitrary Values to Surface Parcels](md_files/values_on_parcels.md)   
 
