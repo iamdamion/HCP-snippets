@@ -18,14 +18,6 @@ This repository is meant to be a living resource for people in my position. Thos
 ## Table of Contents
 - [Arbitrary Values for Parcels](md_files/values_on_parcels.md)   
 
-
-
-## Main Contributors
-- [Damion V. Demeter, MA](https://www.damiondemeter.com/)  [<img src="img/github_square.jpeg" width="50" height="50">](https://github.com/iamdamion)
-- [Hao-Ting Wang, PhD](https://wanghaoting.com/)  [<img src="img/github_square.jpeg" width="50" height="50">](https://github.com/htwangtw)
-
-
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
