@@ -15,7 +15,7 @@ This repository is meant to be a living resource for people in my position. Thos
 
 
 ### Main Contributors:
-- [Damion V. Demeter, MA](https://www.damiondemeter.com/)[<img src="img/github_square.png" width="50" height="50">](https://github.com/iamdamion)
-- [Hao-Ting Wang, PhD](https://wanghaoting.com/)[<img src="https://github.blog/wp-content/uploads/2013/04/fffdd290-a5e2-11e2-8099-e1b5d8286da3.jpg">](https://github.com/htwangtw)
+- [Damion V. Demeter, MA](https://www.damiondemeter.com/)  [<img src="img/github_square.jpeg" width="50" height="50">](https://github.com/iamdamion)
+- [Hao-Ting Wang, PhD](https://wanghaoting.com/)  [<img src="img/github_square.jpeg" width="50" height="50">](https://github.com/htwangtw)
 
 
