@@ -16,7 +16,7 @@ This repository is meant to be a living resource for people in my position. Thos
 
 
 ## Table of Contents
-- [Arbitrary Values for Parcels](md_files/values_on_parcels.md)   
+- [1. Arbitrary Values for Parcels](md_files/values_on_parcels.md)   
 
 ## Contributors ✨
 
