@@ -10,7 +10,7 @@ This repository is meant to be a living resource for people in my position. Thos
 
 
 ### Table of Contents:
-- [Arbitrary Values for Parcels](https://github.com/iamdamion/HCP-snippets/md_files/values_on_parcels.md)   
+- [Arbitrary Values for Parcels](https://github.com/iamdamion/HCP-snippets/blob/main/md_files/values_on_parcels.md)   
 
 
 
