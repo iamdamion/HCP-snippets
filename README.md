@@ -28,7 +28,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://wanghaoting.com/"><img src="https://avatars.githubusercontent.com/u/13743617?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hao-Ting Wang</b></sub></a><br /><a href="#ideas-htwangtw" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/iamdamion/HCP-snippets/commits?author=htwangtw" title="Code">💻</a></td>
-    <td align="center"><a href="http://damiondemeter.com"><img src="https://avatars.githubusercontent.com/u/6740413?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rockets2theMoon</b></sub></a><br /><a href="#ideas-iamdamion" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-iamdamion" title="Design">🎨</a> <a href="#content-iamdamion" title="Content">🖋</a> <a href="#example-iamdamion" title="Examples">💡</a></td>
+    <td align="center"><a href="http://damiondemeter.com"><img src="https://avatars.githubusercontent.com/u/6740413?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rockets2theMoon</b></sub></a><br /><a href="#ideas-iamdamion" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-iamdamion" title="Design">🎨</a> <a href="#content-iamdamion" title="Content">🖋</a> <a href="#example-iamdamion" title="Examples">💡</a> <a href="https://github.com/iamdamion/HCP-snippets/commits?author=iamdamion" title="Code">💻</a></td>
   </tr>
 </table>
 
