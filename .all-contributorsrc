@@ -14,6 +14,18 @@
         "ideas",
         "code"
       ]
+    },
+    {
+      "login": "iamdamion",
+      "name": "Rockets2theMoon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6740413?v=4",
+      "profile": "http://damiondemeter.com",
+      "contributions": [
+        "ideas",
+        "design",
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
