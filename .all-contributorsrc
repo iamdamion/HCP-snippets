@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "htwangtw",
+      "name": "Hao-Ting Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13743617?v=4",
+      "profile": "https://wanghaoting.com/",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "HCP-snippets",
+  "projectOwner": "iamdamion",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
