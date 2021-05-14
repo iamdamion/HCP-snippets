@@ -13,8 +13,14 @@ Simple walkthrough and example code (python) to create a "template" surface psca
 <!-- Why: Some brief background on the use case. This can be however long, but keep it short. 
 example: For one project I was identifying parcels of interest. To show this across a group of subjects, I needed to essentially place a number on each parcel, which represented how many times that parcel was a parcel of interest across all subjects in my group. This example code allows you to place arbitrary values (for me this was the count of how many times the parcel was chosen) on any parcel, which you can then bring into workbench viewer and make a nice figure including a color map for your results, etc. 
 -->
-For one project I was identifying parcels of interest. To show this across a group of subjects, I needed to essentially place a number on each parcel, which represented how many times that parcel was a parcel of interest across all subjects in my group. This example code allows you to place arbitrary values (for me this was the count of how many times the parcel was chosen) on any parcel, which you can then bring into workbench viewer and make a nice figure including a color map for your results, etc. 
+For one project I was identifying parcels of interest. To show the overlap across a group of subjects, I needed to place a number on each parcel, which represented how many times that parcel was a parcel of interest across all subjects in my group. This example code allows you to place arbitrary values on any parcel, which you can then bring into workbench viewer and make a nice figure including a color map for your results, etc. 
 
+This example will:
+1. Show you how to create a "blank" pscalar (parcellated scalar surface file) using a source surface scalar file and parcel set of your choosing. 
+2. Explain the text file needed to place values onto each parcel in the set you've chosen.
+3. Place those values onto the template pscalar file you made and save it out as a new pscalar.nii file. 
+
+This file can then be brought into workbench view to make figures. 
 
 ## Code example!
 <!-- 
