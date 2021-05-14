@@ -1,4 +1,4 @@
-<img align="left" width="200" src="img/handbook.png">
+<img align="left" width="300" src="img/handbook.png">
 
 # Handbook for the Recently HCP'd
 Snippets of code, examples, and simple walkthroughs to help grad students/new users complete basic tasks with workbench command and common HCP pipeline output files. 
