@@ -22,7 +22,7 @@ This repository is meant to be a living resource for people in the position I wa
 
 ---
 ## Contributors ✨
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks to Hao for the mini "brainhack" sessions that inspired making this resource in the first place! ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
