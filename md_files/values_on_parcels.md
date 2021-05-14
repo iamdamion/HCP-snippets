@@ -6,7 +6,7 @@
 example: Simple walkthrough and example code (python) to create a "template" surface pscalar, then to populate the Gordon 333 surpace parcels with arbirary values. 
 (good for visualization of any metric or value you are computing using parcels.)
 -->
-Simple walkthrough and example code (python) to create a "template" surface pscalar, then to populate the Gordon 333 surpace parcels with arbirary values. 
+Simple walkthrough and example code (python) to create a "template" surface pscalar, then to populate the Gordon 333 surface parcels with arbitrary values. 
 (good for visualization of any metric or value you are computing using parcels.)
 
 ## Why do we need this?
