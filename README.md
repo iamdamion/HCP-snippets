@@ -10,7 +10,7 @@ Snippets of code, examples, and simple walkthroughs to help grad students/new us
 
 
 ## Background
-Working with HCP files has been an adventure. There are many resouces out there and the workbench commands are very powerful. However, while attempting to complete many tasks I would simply and quickly do using fsl commands on volume files, I found myself a little confused with surface/HCP files. I was constantly searching for brief and simple examples or step-by-step instructions for the tasks I was trying to complete...but was unable to find them. If you are anything like me, you learn best by clear and brief step-by-step examples that offer real outputs you can then experiment with and build upon.
+Working with HCP files has been an adventure. There are many resources out there and the workbench commands are very powerful. However, while attempting to complete many tasks I would simply and quickly do using fsl commands on volume files, I found myself a little confused with surface/HCP files. I was constantly searching for brief and simple examples or step-by-step instructions for the tasks I was trying to complete...but was unable to find them. If you are anything like me, you learn best by clear and brief step-by-step examples that offer real outputs you can then experiment with and build upon.
 
 This repository is meant to be a living resource for people in the position I was in. Those searching for simple step-by-step instructions and examples commands or code to build upon for your work. Hopefully, it will mitigate the struggle for grad students and new workbench and HCP users. 
 
