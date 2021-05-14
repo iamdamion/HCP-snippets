@@ -4,9 +4,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-
+---
 # Handbook for the Recently HCP'd
-
 Snippets of code, examples, and simple walkthroughs to help grad students/new users complete basic tasks with workbench command and common HCP pipeline output files. 
 
 ## Background
@@ -14,13 +13,13 @@ Working with HCP files has been an adventure. There are many resouces out there 
 
 This repository is meant to be a living resource for people in my position. Those searching for simple step-by-step instructions and examples commands or code to build upon. Hopefully, it will lessen the struggle for grad students and new workbench and HCP users. 
 
-
+---
 ## Table of Contents
-- [1. Arbitrary Values for Parcels](md_files/values_on_parcels.md)   
+- [Extract Timeseries to File](md_files/timeseries_to_file.md)  
+- [Write Arbitrary Values to Surface Parcels](md_files/values_on_parcels.md)   
 
-
+---
 ## Contributors ✨
-
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
