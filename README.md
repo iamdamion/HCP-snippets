@@ -1,4 +1,4 @@
-<p align="center"><img width=50% src="img/handbook.jpg"></p> 
+<p align="center"><img width=50% src="img/handbook.png"></p> 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
