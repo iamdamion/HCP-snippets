@@ -1,5 +1,5 @@
 <!--Title of the snippet.-->
-# Populate surface parcels with arbirary values
+# Populate surface parcels with arbitrary values
 
 ## What is this snippet for?
 <!-- What: <each thing should have a brief rundown of what it does. Maybe 2-4 sentences tops. 
