@@ -1,9 +1,12 @@
 <p align="center"><img width=50% src="img/handbook.jpg"></p> 
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+
 # Handbook for the Recently HCP'd
+
 Snippets of code, examples, and simple walkthroughs to help grad students/new users complete basic tasks with workbench command and common HCP pipeline output files. 
 
 ## Background
