@@ -12,9 +12,11 @@ Simple walkthrough and example code (python) to extract timeseries vectors, from
 <!-- Why: Some brief background on the use case. This can be however long, but keep it short. 
 example: For one project I was identifying parcels of interest. To show this across a group of subjects, I needed to essentially place a number on each parcel, which represented how many times that parcel was a parcel of interest across all subjects in my group. This example code allows you to place arbitrary values (for me this was the count of how many times the parcel was chosen) on any parcel, which you can then bring into workbench viewer and make a nice figure including a color map for your results, etc. 
 -->
-The most basic of needs for any analyses is a bit different using surface files. Here is an example in the most basic of scenarios. You have a dense timseries file created from the HCP pipeline (or any offshoot, such as from DCAN labs or using fmri-prep). Below is how you would extract the average timeseries for the 333 cortical surface parcels using the Gordon 333 parcellation set. 
+The most basic of needs for any analyses is a bit different using surface files. Here is an example in the most basic of scenarios. You have a dense timseries file created from the HCP pipeline (or any offshoot, such as from DCAN labs or using fmri-prep). Below is how you would:
+1. Create a ptseries (parcellated timeseries) file. This is the average value of all vertices within each surface parcel, for all TRs (repetition time).
+2. Extract the timeseries vectors from that ptseries file (to a .txt file use in any script), using the 333 cortical surface parcels in the Gordon 333 parcellation set. 
 
-Note: this also created a ptseries (parcellated timeseries file) file that you can use with other workbench commands, etc. 
+Note: This ptseries (parcellated timeseries file) file can be used with other workbench commands, etc. 
 
 ## Code example!
 <!-- 
