@@ -4,7 +4,7 @@
 Snippets of code, examples, and simple walkthroughs to help grad students/new users complete basic tasks with workbench command and common HCP pipeline output files. 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -32,6 +32,7 @@ Thanks to Hao-Ting for the mini "brainhack" sessions that inspired making this r
   <tr>
     <td align="center"><a href="https://wanghaoting.com/"><img src="https://avatars.githubusercontent.com/u/13743617?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hao-Ting Wang</b></sub></a><br /><a href="#ideas-htwangtw" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-htwangtw" title="Design">🎨</a> <a href="#content-htwangtw" title="Content">🖋</a> <a href="#example-htwangtw" title="Examples">💡</a></td>
     <td align="center"><a href="http://damiondemeter.com"><img src="https://avatars.githubusercontent.com/u/6740413?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rockets2theMoon</b></sub></a><br /><a href="#ideas-iamdamion" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-iamdamion" title="Design">🎨</a> <a href="#content-iamdamion" title="Content">🖋</a> <a href="#example-iamdamion" title="Examples">💡</a></td>
+    <td align="center"><a href="https://axiezai.github.io"><img src="https://avatars.githubusercontent.com/u/21200014?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xihe Xie</b></sub></a><br /><a href="#example-axiezai" title="Examples">💡</a></td>
   </tr>
 </table>
 
