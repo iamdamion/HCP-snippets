@@ -19,6 +19,7 @@ This repository is meant to be a living resource for people in the position I wa
 - [The Most Clear Basic File Type Overview I've Found](https://mandymejia.com/2015/08/10/a-laymans-guide-to-working-with-cifti-files/) (External Link)
 - [Extract Timeseries to File](md_files/timeseries_to_file.md)  
 - [Write Arbitrary Values to Surface Parcels](md_files/values_on_parcels.md)   
+- [Obtain HCP dataset with Datalad](md_files/hcp_datalad_dataset.md)
 
 ---
 ## Contributors ✨
