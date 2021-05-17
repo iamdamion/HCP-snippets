@@ -28,6 +28,15 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "axiezai",
+      "name": "Xihe Xie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21200014?v=4",
+      "profile": "https://axiezai.github.io",
+      "contributions": [
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
