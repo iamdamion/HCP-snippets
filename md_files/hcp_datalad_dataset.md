@@ -25,11 +25,13 @@ To summarize:
 
  - Install `datalad` with either `pip` or `conda` (See handbook below if you've never done this)
 
- - Obtain your [ConnectomeDB](https://db.humanconnectome.org) account and enable the Amazon S3 bucket access for your Amazon account so you can obtain your own access key.
+ - Obtain your [ConnectomeDB](https://db.humanconnectome.org) account and enable the Amazon S3 bucket access for your Amazon account so you can obtain your own access secret key and key ID.
 
  - Clone the dataset with `datalad clone https://github.com/datalad-datasets/human-connectome-project-openaccess.git`
 
  - Each subject folder and their corresponding data folders are called "subdatasets", you can obtain specific files with `datalad get <path/to/file>` or `datalad get <path/to/subdataset>`.
+
+ - If this is the first time you access a Amazon S3 bucket, you will be prompted to enter your access key ID and secret key obtained in the earlier step. 
 
 For people unfamiliar with `datalad`, check out their wonderful handbook: [http://handbook.datalad.org/en/latest/](http://handbook.datalad.org/en/latest/)
 
